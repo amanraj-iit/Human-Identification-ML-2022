@@ -8,4 +8,4 @@
 
 # note: The Source code and NPM codes are attached in source_code file
 
-# Don't forgot to add :heart: 
+# Don't forgot to add :star: 
